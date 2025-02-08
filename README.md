@@ -1,4 +1,3 @@
-# app
 # English Learning Agent
 
 Aplikacja do nauki języka angielskiego, która wykorzystuje natywne funkcje mobilne, aby wchodzić w interakcje z użytkownikami poprzez tekst i mowę.
